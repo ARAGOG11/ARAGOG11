@@ -22,7 +22,8 @@ I enjoy working with a variety of technologies, including:
 ## 📂 [View My CV](https://drive.google.com/file/d/1dJ1vAp8tEQ8vJyNMrQknpzyxRAtugTND/view?usp=drivesdk)
 
 ## 🤝 Let's Connect!
-I'm always open to collaborating on projects and discussing tech. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/atul-khadwal-26196029a) or [Instagram](https://www.instagram.com/_khadwal_).
+I'm always open to collaborating on projects and discussing tech. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/atul-khadwal-26196029a) or [Instagram](https://www.instagram.com/khadwal.atul/).
 
 
 Thanks for stopping by! Let's create something amazing together! 🚀✨
+
