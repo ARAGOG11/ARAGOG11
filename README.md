@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm an enthusiast for Robotics, currently persuing
 
 ## 🔭 Current Focus:
 Currently learning:
+- CAD - FUSION , SOLIDWORDS 
 - Microcontrollers (**Arduino**, **Rasberry Pi**)
 - Sensor Integration (**Proximity Sensors**, **Range Sensors**)
 - Actuators: The Muscles of Robots (**Electric Motors**, **Pneumatic Actuators**, **Hydraulic Actuators**)
@@ -11,7 +12,7 @@ Currently learning:
 ## 🛠️ Technical Skills
 I enjoy working with a variety of technologies, including:
 - **Programming Languages:** C, C++, Embedded C 
-- **Tools** : Arduino IDE , TinkerCAD , AutoCAD , Circuit Lab , LTspice
+- **Tools** : Arduino IDE , FUSION , SOLIDWORKS , TinkerCAD , AutoCAD , Circuit Lab , LTspice 
 -  Miscellaneous: Sensor Intergration, Motor Gear Adjustment 
  
 ## 📈 GitHub Stats
@@ -22,5 +23,6 @@ I enjoy working with a variety of technologies, including:
 
 ## 🤝 Let's Connect!
 I'm always open to collaborating on projects and discussing tech. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/atul-khadwal-26196029a) or [Instagram](https://www.instagram.com/_khadwal_).
+
 
 Thanks for stopping by! Let's create something amazing together! 🚀✨
